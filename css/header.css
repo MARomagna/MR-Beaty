@@ -42,6 +42,7 @@
   }
   .header-menu {
     gap: 20px;
+    justify-content: center;
   }
   .header-menu a {
     background: #f3e8f0;

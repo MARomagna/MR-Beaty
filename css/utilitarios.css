@@ -11,6 +11,9 @@
 .cor-text {
   color: var(--cor-texto);
 }
+.cor-botao {
+  color: var(--cor-textBotao);
+}
 .container {
   padding-left: 20px;
   padding-right: 20px;

@@ -45,7 +45,7 @@
 }
 @media (max-width: 800px) {
   .estilo-lista {
-    padding-bottom: 60px;
+    padding-bottom: 25px;
     padding-top: 20px;
   }
   .estilo-lista h2 {

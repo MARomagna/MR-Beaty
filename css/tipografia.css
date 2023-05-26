@@ -4,9 +4,16 @@
 .titulo-secundario {
   font: 400 1.2rem/1.125 'Dancing Script', sans-serif;
 }
+.titulo-secundario-b {
+  font: 700 1.8rem/1.5 'Dancing Script', sans-serif;
+}
 .paragrafo {
   font: 400 1.15rem/1.5 'Courgette', sans-serif;
 }
+.paragrafo-b {
+  font: 700 1.15rem/1.5 'Courgette', sans-serif;
+}
+
 @media (max-width: 800px) {
   .titulo-primario {
     font-size: 1.2rem;
