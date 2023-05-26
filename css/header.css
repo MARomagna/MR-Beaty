@@ -23,7 +23,7 @@
   display: inline-block;
   font-size: 18px;
   position: relative;
-  color: #41012d;
+  color: var(--cor-textBotao);
   font-family: 'Courgette', cursive;
 }
 .header-menu a::after {

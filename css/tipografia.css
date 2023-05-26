@@ -1,0 +1,12 @@
+.titulo-primario {
+  font: 700 2.5rem/1.125 'Dancing Script', sans-serif;
+}
+.titulo-secundario {
+  font: 400 2rem/1.125 'Dancing Script', sans-serif;
+}
+.paragrafo {
+  font: 400 1.15rem/1.5 'Courgette', sans-serif;
+}
+.font-botao {
+  font: 700 1.12rem/1.33 'Courgette', sans-serif;
+}
