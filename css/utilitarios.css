@@ -11,6 +11,14 @@
 .cor-text {
   color: var(--cor-texto);
 }
+.container {
+  padding-left: 20px;
+  padding-right: 20px;
+  max-width: 1200px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+}
 .botao {
   padding: 16px 32px;
   display: inline-block;
@@ -19,6 +27,7 @@
   box-shadow: 0 1px 2px 2px #f096d5;
   text-transform: uppercase;
   color: var(--cor-textBotao);
+  font: 700 1.12rem/1.33 'Courgette', sans-serif;
 }
 .botao:hover {
   background: linear-gradient(#f800ae, var(--cor-secundaria));
