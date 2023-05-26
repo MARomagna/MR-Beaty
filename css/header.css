@@ -23,13 +23,15 @@
   display: inline-block;
   font-size: 18px;
   position: relative;
+  color: #41012d;
+  font-family: 'Courgette', cursive;
 }
 .header-menu a::after {
   content: '';
   display: block;
   height: 2px;
   width: 0px;
-  background: #ce44a9;
+  background: #ff00bb;
   margin-top: 4px;
   transition: 0.3s;
   position: absolute;
