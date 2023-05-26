@@ -10,3 +10,11 @@
 .font-botao {
   font: 700 1.12rem/1.33 'Courgette', sans-serif;
 }
+@media (max-width: 800px) {
+  .titulo-primario {
+    font-size: 1.2rem;
+  }
+  .paragrafo {
+    font-size: 1rem;
+  }
+}

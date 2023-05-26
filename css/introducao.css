@@ -42,12 +42,8 @@
     padding-bottom: 140px;
     text-align: center;
   }
-  .introducao h1 {
-    font-size: 1.2rem;
-    margin-bottom: 15px;
-  }
+  .introducao h1,
   .introducao p {
-    font-size: 1rem;
     margin-bottom: 15px;
   }
   .introducao img {
