@@ -21,12 +21,9 @@
 .depoimento-conteudo p::before,
 .depoimento-conteudo p::after {
   color: #f088d2;
-  position: absolute;
 }
 .depoimento-conteudo p::before {
   content: '“';
-  top: -10px;
-  left: 25px;
 }
 .depoimento-conteudo p::after {
   content: '”';
